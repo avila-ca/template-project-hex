@@ -1,5 +1,6 @@
 # Ejemplo básico de TS
 
+
 ---
 
 En este ejemplo básico hay:
